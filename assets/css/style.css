@@ -1,0 +1,19 @@
+/* nav {
+	background-color: #DDD;
+} */
+
+.azulFB { color: #3b5998; !important; }
+.azulTW { color: #00acee; !important; }
+.roxoIG { color: #c13584; !important; }
+.verdeWA { color: #25d366; !important; }
+
+.bgCinza { background-color: #DDD; }
+.bgBranco { background-color: white; }
+
+.agenda { font-size: 0.75rem; color: black; }
+
+a:active{ color: black; text-decoration: underline; }
+a:link{ color: black; text-decoration: underline; }
+a:visited{ color: black; text-decoration: underline; }
+
+body{ font-family:verdana; }

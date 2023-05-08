@@ -1,0 +1,4 @@
+RewriteEngine on
+Header set Access-Control-Allow-Origin "*"
+RewriteCond     %{SERVER_PORT} ^80$
+RewriteRule     ^(.*)$ https://reiki-ba.com.br%{REQUEST_URI} [L,R]
