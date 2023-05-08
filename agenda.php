@@ -23,7 +23,5 @@
 <a href="comoparticipar.php">Mais informa&ccedil;&otilde;es</a></font></p>
 <hr />
 <?php
-/*
-
-*/
+/* Datas Innativas */
 ?>
