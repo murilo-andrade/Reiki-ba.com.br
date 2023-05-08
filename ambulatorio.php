@@ -24,11 +24,11 @@
 
 					<p>Venha participar e descobrir as maravilhas terapêuticas do Reiki.</p>
 
-					<p class="d-md-none">O ambulatório inicia às 14h nas datas disponíveis abaixo.</p>
-					<p class="d-none d-md-block d-lg-block">O ambulatório inicia às 14h nas datas disponíveis ao lado.</p>
+					<p class="d-md-none">O ambulatório inicia às 15h nas datas disponíveis abaixo.</p>
+					<p class="d-none d-md-block d-lg-block">O ambulatório inicia às 15h nas datas disponíveis ao lado.</p>
 
-					<p>Atendimento gratuito por ordem de chegada, aceitamos doação de leite em pó para troca energética. Limitado a 15 pessoas por tarde.</p>
+					<p>Atendimento gratuito por ordem de chegada, aceitamos doação de leite em pó para troca energética. Limitado a 20 pessoas por tarde.</p>
 
-					<p>A partir das 13h são distribuidas senhas e às 13h30 é formada a lista definitiva com os que estiverem presentes.</p>
+					<p>A partir das 14h são distribuidas senhas e às 14h30 é formada a lista definitiva com os que estiverem presentes.</p>
 				</div>
 <?php include("assets/inc/footer.php"); ?>
