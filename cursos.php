@@ -26,7 +26,7 @@
 					Também são feitas iniciações e treinamentos individuais, consulte disponibilidade e valores pelo whatsapp ou telefone.</p>
 
 					<p class="agenda">Inscrições com Sandra Valéria Coelho<br>
-					WhatsApp: <a href="tel:+5571983216124">(71) 98321-6124</a><br>
+					WhatsApp: <a href="https://wa.me/5571983216124">(71) 98321-6124</a><br>
 					Email: sandra@reiki-ba.com.br<br>
 					<a href="https://www.sandravcoelho.com.br/" target=_blank">https://www.sandravcoelho.com.br/</a></p>
 				</div>

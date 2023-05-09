@@ -6,7 +6,7 @@
 				<div class="col-md-9 p-3 bgBranco">
 					<h4>Quem Somos</h4>
 
-					<p>Nosso grupo foi formado em fevereiro de 2007 incialmente com 7 terapeutas fixos. Caso queira se juntar a nós, entre em contato com Sandra Valéria pelo WhatsApp: <a href="tel:+5571983216124">(71) 98321-6124</a></p>
+					<p>Nosso grupo foi formado em fevereiro de 2007 incialmente com 7 terapeutas fixos. Caso queira se juntar a nós, entre em contato com Sandra Valéria pelo WhatsApp: <a href="https://wa.me/5571983216124">(71) 98321-6124</a></p>
 
 					<p><b>Terapeutas Voluntários:</b></p>
 					<ul>

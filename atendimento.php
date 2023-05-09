@@ -18,6 +18,6 @@
 					R. Humberto de Campos, 282/306 - Graça - Salvador - BA.</p>
 
 					<p>Para verificar horários disponíveis, entre em contato pelo número abaixo.<br>
-					WhatsApp: <a href="tel:+5571983216124">(71) 98321-6124</a></p>
+					WhatsApp: <a href="https://wa.me/5571983216124">(71) 98321-6124</a></p>
 				</div>
 <?php include("assets/inc/footer.php"); ?>

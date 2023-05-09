@@ -19,9 +19,9 @@
 */
 ?>
 
-					<p>O atendimento é feito por ordem de chegada, limitado a 15 pessoas por tarde. A partir das 13h são distribuídas senhas e às 13h30 é composta a lista definitiva com os que estiverem presentes.</p>
+					<p>O atendimento é feito por ordem de chegada, limitado a 20 pessoas por tarde. A partir das 14h são distribuídas senhas e às 14h30 é composta a lista definitiva com os que estiverem presentes.</p>
 
 					<p>Para maiores informações entre em contato conosco.<br>
-					WhatsApp: <a href="tel:+5571983216124">(71) 98321-6124</a> (Sandra)</p>
+					WhatsApp: <a href="https://wa.me/5571983216124">(71) 98321-6124</a> (Sandra)</p>
 				</div>
 <?php include("assets/inc/footer.php"); ?>
